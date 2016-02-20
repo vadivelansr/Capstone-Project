@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/appwidget_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/padding_small"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/appwidget_store_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:padding="@dimen/padding_small"
+            android:gravity="center"
+            android:contentDescription="@string/store"
+            />
+        <TextView
+            android:id="@+id/appwidget_offer_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/orange"
+            android:textStyle="bold"
+            android:padding="@dimen/padding_small"
+            android:gravity="center"
+            android:contentDescription="@string/offer_type"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/appwidget_coofde_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/texBlack"
+        android:padding="@dimen/padding_small"
+        android:contentDescription="@string/offer_title"
+        />
+
+</LinearLayout>

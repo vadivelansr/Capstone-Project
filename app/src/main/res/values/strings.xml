@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Coofde</string>
+    <string name="coofde_desc">Coupons, Offers and Deals</string>
+    <string name="favourites">Favourites</string>
+    <string name="home">Home</string>
+    <string name="about_us">About us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="search_hint">Search Coofde</string>
+    <string name="search_title">Search</string>
+    <string name="empty_view_text">No coupons/offers/deals available in Favourites</string>
+    <string name="results_for">Results for : </string>
+    <string name="search_result_no">No coofde(coupons/offers/deals) found</string>
+    <string name="team">Team</string>
+    <string name="about_team">We are a team helping you to get good coupons, better offers and great deals.</string>
+    <string name="about_coofde">Coofde is an app which provides latest coupons, offers and great deals.</string>
+    <string name="send_email">Send E-mail</string>
+    <string name="open_browser">Open site using</string>
+    <string name="category">Category</string>
+    <string name="stores">Stores</string>
+
+    <string name="label_views">Views</string>
+    <string name="delete">Delete</string>
+    <string name="get_code">Get Code</string>
+    <string name="activate_deal">Activate Deal</string>
+    <string name="deal_activated">Deal Activated</string>
+    <string name="code_copied">Code Copied</string>
+    <string name="share_description">Download Coofde app from Google Play store to explore coupons, offers and deals.</string>
+    <string name="exit_feedback">Tap back again to exit</string>
+    <string name="snackbar_remove_favourites">Removed from Favourites</string>
+    <string name="snackbar_add_favourites">Added to Favourites</string>
+    <string name="toolBar">Toolbar</string>
+    <string name="banner_ad">Banner ad</string>
+    <string name="offer_title">Offer title</string>
+    <string name="offer_desc">Offer description</string>
+    <string name="image">Image</string>
+    <string name="store">Store</string>
+    <string name="button">Button</string>
+    <string name="offer_type">Offer Type</string>
+
+    <!-- Non-translatable -->
+    <string name="contact_email" translatable="false">coofdeteam@gmail.com</string>
+    <!-- Adunit Ids -->
+    <string name="banner_ad_unit_id_stores" translatable="false">ca-app-pub-8667667470812913/1963943988</string>
+    <string name="banner_ad_unit_id_category" translatable="false">ca-app-pub-8667667470812913/9487210782</string>
+
+
+</resources>

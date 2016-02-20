@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#009688</color>
+    <color name="white">#FFFFFF</color>
+    <color name="texBlack">#99000000</color>
+    <color name="apptheme_color">#ffffff</color>
+    <color name="window_background">#F2F2F2</color>
+    <color name="tabText">#727272</color>
+    <color name="tabTextActive">#FFFFFF</color>
+
+    <color name="orange">#CDFF5722</color>
+    <color name="button_grey_dark">#609A9A9A</color>
+    <color name="button_grey_light">#309A9A9A</color>
+    <color name="button_orange_pressed">#9BFF5722</color>
+    <color name="button_orange_free">#CBFF5722</color>
+    <color name="button_teal_dark">#CB009688</color>
+    <color name="button_teal_light">#9B009688</color>
+    <color name="imageGradientEnd">#23000000</color>
+</resources>

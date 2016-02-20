@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="ga_trackingId">UA-73793399-1</string>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <screenName name="com.akhooo.coofde.activity.MainActivity">Main Screen</screenName>
+    <screenName name="com.akhooo.coofde.activity.CategoryDetailsActivity">Category</screenName>
+    <screenName name="com.akhooo.coofde.activity.StoreDetailsActivity">Store</screenName>
+    <screenName name="com.akhooo.coofde.activity.OfferDetailsActivity">Offers</screenName>
+    <screenName name="com.akhooo.coofde.activity.FavouritesActivity">Favourites</screenName>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+    <TextView
+        android:id="@+id/appwidget_itle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/colorPrimaryDark"
+        android:padding="@dimen/padding_medium"
+        android:contentDescription="@string/app_name"
+        />
+    <ListView
+        android:id="@+id/appwidget_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:divider="@color/colorPrimaryDark"
+        android:dividerHeight="1dp"
+        ></ListView>
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:text="@string/empty_view_text"
+        android:textSize="@dimen/deal_title"
+        android:contentDescription="@string/empty_view_text"
+        />
+
+</LinearLayout>

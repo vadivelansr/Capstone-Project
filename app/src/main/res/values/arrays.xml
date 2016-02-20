@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_title">
+        <item>Recharge</item>
+        <item>Electronics</item>
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Hotels</item>
+        <item>Travel</item>
+        <item>Entertainment</item>
+        <item>Home Decor</item>
+        <item>Health</item>
+        <item>Web Hosting</item>
+    </string-array>
+    <string-array name="category_drawable">
+        <item>recharge</item>
+        <item>electronics</item>
+        <item>fashion</item>
+        <item>food</item>
+        <item>hotels</item>
+        <item>travel</item>
+        <item>entertainment</item>
+        <item>home_decor</item>
+        <item>health</item>
+        <item>web_hosting</item>
+    </string-array>
+</resources>
